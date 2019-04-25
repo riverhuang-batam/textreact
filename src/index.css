@@ -12,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.bg-dark2 {
+  background-color: darkblue;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0%;
+  top:0%;
+}
