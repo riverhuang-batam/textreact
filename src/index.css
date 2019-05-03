@@ -14,10 +14,15 @@ code {
 }
 
 .bg-dark2 {
-  background-color: darkblue;
+  background-color: black;
   position: absolute;
   height: 100%;
   width: 100%;
   left: 0%;
   top:0%;
+}
+.start{
+  text-align: center;
+  background-color: orange;
+  font-size: 1cm;
 }
